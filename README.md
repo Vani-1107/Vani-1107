@@ -1,5 +1,5 @@
+<img src="https://ciracollege.com/wp-content/uploads/2020/11/emile-perron-xrVDYZRGdw4-unsplash-scaled.jpg" height="400" width="100%">
 
-[![MasterHead](https://ciracollege.com/wp-content/uploads/2020/11/emile-perron-xrVDYZRGdw4-unsplash-scaled.jpg)](https://Vani-1107.io)
 <h1 align="center">Hi 👋, I'm Vani</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoAHwJd9VHDQhNiHMEcQXpUEOKgUG-1h316g&usqp=CAU">
